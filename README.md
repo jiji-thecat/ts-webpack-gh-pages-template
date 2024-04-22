@@ -2,6 +2,7 @@
 
 ## Description
 
+![github pages sample](https://jiji-thecat.github.io/ts-webpack-gh-pages-template/)
 This project is for easily creating ts + webpack env on your local. Also you can host your app on github pages.
 
 ## How to Install and Run
@@ -11,6 +12,8 @@ Follow these steps:
 1. Run `yarn` and install the dependencies.
 2. Run `yarn run serve` to run dev server hosted by webpack.
 3. Run `yarn run deplo` to deploy on your github pages.
+
+## How to Use This App
 
 ## License
 
