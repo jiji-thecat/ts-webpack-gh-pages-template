@@ -12,7 +12,7 @@ Follow these steps:
 
 1. Run `yarn` and install the dependencies.
 2. Run `yarn run serve` to run dev server hosted by webpack.
-3. Run `yarn run deplo` to deploy on your github pages.
+3. Run `yarn run deploy` to deploy on your github pages.
 
 ## How to Use This App
 
